@@ -1,0 +1,23 @@
+[
+{
+contactId: 111114,
+firstName: "Ruth",
+lastName: "Gomez",
+phone: "112323233",
+email: "ruth.gomez@gmail.com"
+},
+{
+contactId: 111115,
+firstName: "Marc",
+lastName: "Antoine",
+phone: "2223232311",
+email: "marc.antoine@gmail.com"
+},
+{
+contactId: 111116,
+firstName: "Claude",
+lastName: "Gauthier",
+phone: "232323223",
+email: "claude.gauthier@gmail.com"
+}
+]
